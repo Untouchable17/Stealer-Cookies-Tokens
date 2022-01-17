@@ -9,7 +9,7 @@
 
 ## Установка
 
-> Версия Python 3.6+
-Установите библиотеки `pip install Pillow lxml telebot`
+- Версия Python 3.6+
+- Установите библиотеки `pip install Pillow lxml telebot`
 
 
